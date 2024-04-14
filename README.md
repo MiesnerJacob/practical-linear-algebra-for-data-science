@@ -5,7 +5,7 @@ My implementation of the concepts, examples, and coding exercises in the book "P
 
 - Chapter 01: Introduction
 - Chapter 02: [Vectors, Part 1](02-vectors-pt1.ipynb)
-- Chapter 03: Vectors, Part 2
+- Chapter 03: [Vectors, Part 2](03-vectors-pt2.ipynb)
 - Chapter 04: Vector Applications
 - Chapter 05: Matricies, Part 1
 - Chapter 06: Matricies, Part 2
