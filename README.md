@@ -8,7 +8,7 @@ My implementation of the concepts, examples, and coding exercises in the book "P
 - Chapter 03: [Vectors, Part 2](03-vectors-pt2.ipynb)
 - Chapter 04: [Vector Applications](04-vector-applications.ipynb)
 - Chapter 05: [Matricies, Part 1](05-matrices-pt1.ipynb)
-- Chapter 06: Matricies, Part 2
+- Chapter 06: [Matricies, Part 2](06-matrices-pt2.ipynb)
 - Chapter 07: Matrix Applications
 - Chapter 08: Matrix Inverse
 - Chapter 09: Orthoginal Matricies and QR Decomposition
