@@ -11,7 +11,7 @@ My implementation of the concepts, examples, and coding exercises in the book "P
 - Chapter 06: [Matricies, Part 2](06-matrices-pt2.ipynb)
 - Chapter 07: [Matrix Applications](07-matrix-applications.ipynb)
 - Chapter 08: [Matrix Inverse](08-matrix-inverse.ipynb)
-- Chapter 09: Orthoginal Matricies and QR Decomposition
+- Chapter 09: [Orthoginal Matricies and QR Decomposition](09-orthogonal-matrices-qr-decomposition.ipynb)
 - Chapter 10: Row Reduction and LU Decompostion
 - Chapter 11: General Linear Models and Least Squares
 - Chapter 12: Least Squares Applications
