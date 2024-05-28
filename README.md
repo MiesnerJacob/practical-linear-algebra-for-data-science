@@ -14,8 +14,8 @@ My implementation of the concepts, examples, and coding exercises in the book "P
 - Chapter 09: [Orthoginal Matricies and QR Decomposition](09-orthogonal-matrices-qr-decomposition.ipynb)
 - Chapter 10: [Row Reduction and LU Decompostion](10-row-reduction-lu-decomposition.ipynb)
 - Chapter 11: [General Linear Models and Least Squares](11-general-linear-models-least-squares.ipynb)
-- [Chapter 12: Least Squares Applications](12-least-squares-applications.ipynb)
-- Chapter 13: Eigendecomposition
+- Chapter 12: [Least Squares Applications](12-least-squares-applications.ipynb)
+- Chapter 13: [Eigendecomposition](13-eigendecomposition.ipynb)
 - Chapter 14: Singular Value Decomposition
 - Chapter 15: Eigendecomposition and SVD Applications
 - Chapter 16: Python Tutorial
