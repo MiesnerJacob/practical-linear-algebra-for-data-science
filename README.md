@@ -18,4 +18,4 @@ My implementation of the concepts, examples, and coding exercises in the book "P
 - Chapter 13: [Eigendecomposition](13-eigendecomposition.ipynb)
 - Chapter 14: [Singular Value Decomposition](14-singular-value-decomposition.ipynb)
 - Chapter 15: Eigendecomposition and SVD Applications
-- Chapter 16: Python Tutorial
+- Chapter 16: [Python Tutorial](16-python-tutorial.ipynb)
