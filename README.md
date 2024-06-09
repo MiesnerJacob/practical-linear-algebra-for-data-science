@@ -16,6 +16,6 @@ My implementation of the concepts, examples, and coding exercises in the book "P
 - Chapter 11: [General Linear Models and Least Squares](11-general-linear-models-least-squares.ipynb)
 - Chapter 12: [Least Squares Applications](12-least-squares-applications.ipynb)
 - Chapter 13: [Eigendecomposition](13-eigendecomposition.ipynb)
-- Chapter 14: Singular Value Decomposition
+- Chapter 14: [Singular Value Decomposition](14-singular-value-decomposition.ipynb)
 - Chapter 15: Eigendecomposition and SVD Applications
 - Chapter 16: Python Tutorial
